@@ -36,31 +36,6 @@
         }
     </style>
 </head>
-<body>
-
-    <header>
-        🎶 Instrumentos Musicales 🎵
-    </header>
-
-    <div class="contenedor">
-        <div class="instrumento">
-            <img src="guitarra.jpg" alt="Guitarra">
-            <h3>Guitarra</h3>
-            <p>Instrumento de cuerdas muy popular en distintos géneros musicales.</p>
-        </div>
-
-        <div class="instrumento">
-            <img src="piano.jpg" alt="Piano">
-            <h3>Piano</h3>
-            <p>Instrumento de teclas con un sonido armónico y versátil.</p>
-        </div>
-
-        <div class="instrumento">
-            <img src="violin.jpg" alt="Violín">
-            <h3>Violín</h3>
-            <p>Instrumento de cuerdas frotadas con un sonido elegante y melódico.</p>
-        </div>
-    </div>
 
 </body>
 </html>
