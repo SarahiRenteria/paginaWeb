@@ -2,13 +2,20 @@
 <html lang="es">
 <head> 
   <meta charset="utf-8">
-  <title>HTML</title> Guitarras
+  <title>HTML</title> 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="estilo.css">
 </head>
 
 <body>
-  <p>Esta página web es una página HTML válida.</p>
+  <div class="card" style="width: 18rem;">
+  <img class="card-img-top" src=" https://images.app.goo.gl/gD6c78rkwLPREG757 " alt="Card image cap">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
 </body>
 </html>
 
